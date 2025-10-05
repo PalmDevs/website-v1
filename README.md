@@ -2,6 +2,9 @@
 
 It's my website! I think having a website is cool, so I'm trying to make it real.
 
+> [!WARNING]  
+> Work on my website has continued on this [repository](https://github.com/PalmDevs/website), which is rewritten in Astro with SolidJS.
+
 - 🖌️ Designed (with love and care) by [me](https://github.com/PalmDevs)
 - 🏗️ Built with [SolidJS](https://www.solidjs.com/) and [SolidStart](https://start.solidjs.com)
 - 🍞 Run by [Bun](https://bun.sh)
